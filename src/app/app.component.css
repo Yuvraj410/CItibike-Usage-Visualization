@@ -1,0 +1,42 @@
+/* Top Navigation Bar */
+.header {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 2px;
+    background:#222;
+    box-shadow: -1px 0 5px 0 #222;
+    width: 102%;
+}
+
+.logo {
+    height: 55px;
+    padding: 5px;
+    float: left;
+}
+
+.menu {
+    background: #222;
+    height: 100%;
+}
+
+.menu-title {
+    position: relative;
+    top: 5px;
+}
+
+.navbar-brand {
+    height: 100%;
+}
+
+/* Main component */
+.app {
+    height: 100vh;
+}
+
+.main {
+    height: 100%;
+}
+
+
+
+
