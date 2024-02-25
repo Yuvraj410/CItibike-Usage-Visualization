@@ -13,7 +13,7 @@ There are two parts to this project:
 We conducted experiments involving various forecasting models, including ARIMA, LSTM, and LSTM-CNN, to predict future City Bike Usage.
 
 ## How to run
-1. Download the ***Cleaned_data.csv*** file from https://drive.google.com/drive/folders/1PfLOZI9myZ6moYbpP68MvIYH7BnOFEMQ
+1. Download the ***Cleaned_data.csv*** file from [https://drive.google.com/drive/folders/1PfLOZI9myZ6moYbpP68MvIYH7BnOFEMQ](https://drive.google.com/drive/folders/1KaBBsKUzvWhkRSZe3eDJy2yadcFM1r21?usp=sharing)
 2. In the Notebooks folder, there is a ***ForecastingModels.ipynb*** file that includes implementations of forecasting models such as ARIMA, LSTM, and LSTM-CNN used to forecast city bike usage for a single bike station. Upload the downloaded ***Cleaned_data.csv*** file and the forecasting.ipynb file into ipython environment(Google Colab or Jupyter NoteBook) and run all cells.
 
 
@@ -23,7 +23,7 @@ We employed the LSTM model and created visualizations for multiple bike stations
 
 ## How to run
 1. Run ***cd src*** (***src*** folder contains the visualisation code)
-2. Download the ***assets*** folder from https://drive.google.com/drive/folders/1PfLOZI9myZ6moYbpP68MvIYH7BnOFEMQ. The generated plots for various bike stations are included in this folder, and they were created using the ***GeneratePlots.ipynb*** file.
+2. Download the ***assets*** folder from [https://drive.google.com/drive/folders/1PfLOZI9myZ6moYbpP68MvIYH7BnOFEMQ](https://drive.google.com/drive/folders/1KaBBsKUzvWhkRSZe3eDJy2yadcFM1r21?usp=sharing). The generated plots for various bike stations are included in this folder, and they were created using the ***GeneratePlots.ipynb*** file.
 3. Paste the downloaded assets folder into /src/
 4. Install nvm
 5. To install node version 16.17.0, run the command ***nvm install 16.17.0*** ( npm version 8.15.0 will be installed automatically )
